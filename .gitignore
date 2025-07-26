@@ -1,2 +1,4 @@
 stb_image.h
 main.exe
+resized_output
+stb_image_write.h
